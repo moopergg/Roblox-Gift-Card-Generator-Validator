@@ -18,3 +18,7 @@ generates 16 character roblox gift cards, then you can run validator.py to check
 6. follow the steps and wait for it to complete!
 
 7. and your done! have fun with the codes :)
+
+
+# contact
+**discord: mooper__**
